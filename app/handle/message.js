@@ -1510,4 +1510,3 @@ module.exports = function({
     }
   };
 };
-/* 1510 line commands was made by Catalizcs(roxtigger2003) and SpermLord(spermlord) with love <3, pls dont delete this credits! THANKS very much */
