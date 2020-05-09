@@ -4,9 +4,9 @@ module.exports = {
     prefix: process.env.PREFIX || '!',
     botName: process.env.BOT_NAME || 'Sumi-Chan',
     developer: {
-        uid: 100027477920916,
-        email: 'rfechinonguyen@gmail.com',
-        github: 'Roxtigger2003'
+        uid: 100028735749523,
+        email: 'pcodejs@gmail.com',
+        github: 'pcodejs'
     },
     database: {
         postgres: {
