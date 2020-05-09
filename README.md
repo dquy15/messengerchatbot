@@ -14,7 +14,7 @@ Yêu cầu để có thể sử dụng bot:
 
 •Step 1: bạn phải clone hoặc download Sumi-chan này về, nếu máy bạn có git hãy sử dụng lệnh:
 ```
-git clone https://github.com/roxtigger2003/Sumi-chan-bot
+git clone https://github.com/pcodejs/messengerchatbot
 ```
 hoặc ở trên góc phải có nút xanh ghi là clone or download bạn nhấn vào chọn download zip là nó tự download file zip về và unzip ra nha :3
 ![Preview](previews/github_download.png)
